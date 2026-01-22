@@ -50,7 +50,7 @@ Full-stack system with authentication, role-based access, course management, enr
 ### 🏢 Condominium Billing Management System
 System for managing residential billing, services, users, and payment records with full CRUD functionality.  
 **Tech:** C#, ASP.NET / Java, SQL Server, HTML, CSS, JavaScript  
-🔗 Repository: https://github.com/AndresSalas1995/ProyectoFinal_IngenieriaDelSoftware
+🔗 Repository: https://github.com/AndresSalas1995/ProyectoFinalProgra6
 
 ---
 
