@@ -7,7 +7,8 @@ I also hold a Bachelor’s Degree in English Education, which allows me to commu
 ---
 
 ## 🧠 About Me
-- 🎓 Bachelor’s Degree in Computer Science  
+- 🎓 Bachelor’s Degree in Computer Science
+- 🎓 Bachelor’s Degree in English Education
 - 🌎 Fluent in English | Native Spanish  
 - 💻 Interested in Full-Stack, Backend Development and frontend.
 - 🚀 Actively seeking my first professional opportunity as a software developer  
